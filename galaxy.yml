@@ -11,9 +11,9 @@ tags:
   - servicenow
   - application
   - infrastructure
-repository: https://github.com/ansible-collections/servicenow.itsm
-homepage: https://github.com/ansible-collections/servicenow.itsm
-issues: https://github.com/ansible-collections/servicenow.itsm/issues
+repository: https://github.com/vbnvaidy/servicenow.itsm
+homepage: https://github.com/vbnvaidy/servicenow.itsm
+issues: https://github.com/vbnvaidy/servicenow.itsm/issues
 build_ignore:
   - .gitignore
   - changelogs/.plugin-cache.yaml
